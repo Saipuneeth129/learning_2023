@@ -1,3 +1,6 @@
+/* 1. Write a function to find biggest of 2 numbers using 
+    - ternary operator*/
+    
 #include <stdio.h>
 
 int findMax(int num1, int num2) {
