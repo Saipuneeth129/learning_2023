@@ -1,3 +1,11 @@
+/* Level-1
+   Day-3
+ 4. Find the largest number by deleting single digit in a 4 digit number 5872 - 872, 9856 - 986
+
+Concepts to be used.
+- Loops
+- Operators
+*/    
 #include <stdio.h>
 
 int deleteDigit(int num) {
