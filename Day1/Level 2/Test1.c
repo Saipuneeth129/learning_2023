@@ -1,3 +1,6 @@
+/* Level-2 
+   1.Write a function to return the greatest of 3 number using if else if.*/
+
 #include <stdio.h>
 
 int findGreatest(int num1, int num2, int num3) {
