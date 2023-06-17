@@ -1,3 +1,13 @@
+/* Level-1
+   Day-3
+ 2. Prints Bits:
+Scan a 32bit integer and prints its bits.
+
+Concepts to be used.
+- Loops
+- Bitwise Operators
+
+ */
 #include <stdio.h>
 
 void printBits(int num) {
