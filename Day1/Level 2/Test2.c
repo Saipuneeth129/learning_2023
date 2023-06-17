@@ -1,3 +1,21 @@
+/*Day -2 
+Level-2
+    2. Write a function to return the grade of the given student using switch case statements
+90 to 100 -> 'A'
+75 to 89 -> 'B'
+60 to 74 -> 'C'
+50 to 59 -> 'D'
+36 to 49 -> 'E'
+0 to 35 -> 'F'
+
+In main check the return value and print the below
+65 -> "Grade A"
+66 -> "Grade B"
+67 -> "Grade C"
+68 -> "Grade D"
+69 -> "Grade E"
+70 -> "Grade F"
+*/
 #include <stdio.h>
 
 char getGrade(int score) {
