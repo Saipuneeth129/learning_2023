@@ -1,4 +1,4 @@
-/*Write a function to accept an integer (32 bits) and operation type to do the following and return the result to main function.
+/*5. Write a function to accept an integer (32 bits) and operation type to do the following and return the result to main function.
     - Set 1st bit, if operation type is 1
     - Clear 31st bit, if operation type is 2
     - Toggle 16th bit, if operation type is 3
