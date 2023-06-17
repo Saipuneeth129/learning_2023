@@ -1,3 +1,8 @@
+/*Level-2
+  Day-2
+ 5. Write a program to encode any given string such that it gets converted into an unrecognizable form. 
+Also write a decode function to get back the original string.
+*/
 #include <stdio.h>
 #include <string.h>
 
