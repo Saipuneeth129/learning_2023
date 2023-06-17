@@ -1,3 +1,25 @@
+/* Level-2
+   Day-2
+2. W.A.P to compare the items in a box, assume equal size boxes
+Boxes shall have unique items stored in random order
+Boxes are compared True if there is one to one mapping of items
+return the final result 1 or 0
+
+Example of Equal Boxes:
+A[3] = {200, 10, -90}
+B[3] = {-90, 200, 10}    
+
+Example of Unequal Boxes:
+A[3] = {200, 9, -90}
+B[3] = {-90, 200, 10}    
+
+Note: The array should not be sorted
+
+Topics to be covered
+- Arrays
+- Loops
+- Basic Operators
+*/
 #include <stdio.h>
 
 int compareBoxes(int A[], int B[], int size) {
