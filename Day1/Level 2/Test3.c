@@ -1,3 +1,13 @@
+/* Level-2
+   Day-2
+  3. Write a function to find if a give character is vowel using switch case statements, 
+    - If vowel, return 1
+    - If not vowel, return 0;
+
+In main print,
+"Vowel" if return value is 1
+"Not Vowel" if return value is 1*/
+
 #include <stdio.h>
 
 int isVowel(char ch) {
