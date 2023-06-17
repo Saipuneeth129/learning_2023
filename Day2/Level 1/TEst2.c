@@ -1,3 +1,12 @@
+/* level-1
+   day -2
+2. Write a program to swap any type of data passed to an function.
+
+Topics to be covered
+- Pointers
+- Type Casting
+*/
+
 #include <stdio.h>
 #include <string.h>
 void swap(void *a, void *b, size_t size) {
